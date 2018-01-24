@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++  -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/7744question.dir/question_7744.cpp.o CMakeFiles/7744question.dir/HelloWorld.cpp.o  -o 7744question 

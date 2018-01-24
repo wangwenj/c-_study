@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/winnifrede/Documents/projects/c++/7744question/HelloWorld.cpp
+HelloWorld.h
+/Users/winnifrede/Documents/projects/c++/7744question/HelloWorld.h
+iostream
+-
+
+/Users/winnifrede/Documents/projects/c++/7744question/HelloWorld.h
+
+/Users/winnifrede/Documents/projects/c++/7744question/question_7744.cpp
+iostream
+-
+math.h
+-
+
